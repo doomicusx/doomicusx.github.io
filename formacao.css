@@ -1,0 +1,26 @@
+.projetos-container {
+  padding: 200px 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 130px;
+  background-color: #1e1e1e;
+  align-items: center;
+}
+
+.projetos-quadrado {
+  grid-column: 1;
+  width: 640px;
+  height: 448px;
+  background-color: #eae8e8;
+  justify-self: start; /* Alinha o quadrado à esquerda */
+  margin-left: -70px;
+}
+
+.projetos-texto {
+  grid-column: 2;
+  font-size: 24px;
+  color: #eae8e8;
+  font-style: normal;
+  text-align: start;
+  white-space: nowrap;
+}

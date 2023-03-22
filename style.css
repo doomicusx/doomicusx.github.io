@@ -1,0 +1,8 @@
+@import url(global.css);
+@import url(menu.css);
+@import url(principal.css);
+@import url(formacao.css);
+@font-face {
+  font-family: "Rubik";
+  src: url(static/Rubik-Regular.ttf);
+}

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  font-family: "Rubik";
+  background: #eae8e8;
+}
+
+a {
+  padding: 0px;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h2,
+p {
+  margin: 0px;
+}
